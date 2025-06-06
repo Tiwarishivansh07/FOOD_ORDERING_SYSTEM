@@ -1,0 +1,11 @@
+Customer: tiwari
+Phone: 29327977797
+Address: kefhwkwk
+
+Dish                 Qty   Total
+Rice                 3     ₹750
+-----------------------------------
+Total (without tax): ₹750
+GST (5%): ₹37.5
+Service Tax (10%): ₹75.0
+Total (with tax): ₹862.5
